@@ -13,7 +13,7 @@ Dentre elas foram:
 #Wireframe
 
 
-Foi utilizado o Figma para a construção do site.
+Foi utilizado o Figma para a construção do wireframe do site.
 
 
 ### Foto do projeto

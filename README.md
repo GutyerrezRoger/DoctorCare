@@ -1,7 +1,7 @@
 # DoctorCare
 ### Projeto ministrado pela NLW Return
 
-Na semana da NLW, especialmente na missão Origin. Foi lencionado sobre HTML, CSS e JS da forma mais básica ao avançado de formas dinamicas.
+Na semana da NLW, especialmente na missão Origin. Foi lencionado sobre HTML, CSS e JS da forma mais básica ao avançado em aulas dinamicas.
 Dentre elas foram:
 - CSS Media Queries
 - Reestruturar HTML para ter colunas
